@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "IdentityDemo.Client (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "IdentityDemo.Client (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
